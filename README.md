@@ -6,5 +6,5 @@ This pack contains upscaled painting and statue textures for Luigi's Mansion tha
 You can help complete this pack by playing the game and sending in the original textures of any of the potrait ghosts ranked paintings missing from this pack. You can dump these textures by looking at them in the gallery while "Dump Textures" is enabled in Dolphin's graphics settings. Send them to qashto@gmail.com please!
 ### Donate!
 
-<https://www.patreon.com/qashto>
+<https://www.patreon.com/qashto>  
 <https://www.paypal.me/qashto/5>
